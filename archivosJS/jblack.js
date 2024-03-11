@@ -1,5 +1,3 @@
-(() =>{
-    'use strict';
 
 
 let deck = [];
@@ -142,4 +140,3 @@ btnNuevo.addEventListener('click', () =>{
 
 //TODO: BORRAR
 
-})();
